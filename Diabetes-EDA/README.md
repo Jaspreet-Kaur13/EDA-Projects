@@ -45,7 +45,7 @@ This project performs Exploratory Data Analysis (EDA) on a diabetes dataset to u
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/Jaspreet-Kaur13/EDA-Projects.git
 ```
 
 2. Navigate to project folder:
