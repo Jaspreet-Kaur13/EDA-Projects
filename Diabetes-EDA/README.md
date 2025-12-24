@@ -27,7 +27,7 @@ This project performs Exploratory Data Analysis (EDA) on a diabetes dataset to u
 | SkinThickness    | Triceps skin fold thickness (mm) |
 | Insulin          | 2-Hour serum insulin (mu U/ml) |
 | BMI              | Body mass index |
-| DiabetesPedigree | Diabetes pedigree function |
+| DiabetesPedigreeFunction | Diabetes pedigree function |
 | Age              | Age of the patient |
 | Outcome          | Target variable (0 = non-diabetic, 1 = diabetic) |
 
